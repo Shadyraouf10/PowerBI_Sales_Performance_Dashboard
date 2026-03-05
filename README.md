@@ -1,2 +1,25 @@
-# PowerBI_Sales_Performance_Dashboard
-Interactive Power BI dashboard analyzing sales performance across regions, products, and customers using KPI metrics and dynamic visualizations.
+# Power BI Sales Performance Dashboard
+
+## Overview
+Interactive Power BI dashboard to monitor sales performance and profitability across regions, product categories, and customers.
+
+## Key KPIs
+- Total Sales
+- Net Profit
+- Profit Margin %
+
+## Insights Included
+- Profit distribution by product category
+- Sales & profit by region
+- Monthly sales trend
+- Top 10 customers by sales
+- Customer gender sales share
+- Quantity vs sales by month
+
+## Filters
+- Year
+- Region
+- Product Category
+
+## Tools & Skills
+Power BI • Data Modeling • DAX • Data Visualization
